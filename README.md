@@ -1,2 +1,1 @@
-# hello-world
-My initial repository
+Learning how to use Git Hub
